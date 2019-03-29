@@ -1,0 +1,3 @@
+rootProject.name = 'ou_pe_batje_1737'
+
+include ':app'
